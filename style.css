@@ -1,0 +1,46 @@
+body
+{
+background-color: goldenrod;
+}
+
+h1
+{
+    color: rgb(38, 0, 255);
+    background-color: cornsilk;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+#yoursketch{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#confidence{
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
+
+#score {
+    font-size: 40px;
+    float: left;
+    margin-left: 55px;
+    font-weight: bold;
+}
+
+#timer {
+    font-size: 40px;
+    float: right;
+    margin-right: 155px;
+    font-weight: bold;
+}
+
+#sketchDrawn {
+    font-size: 50px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
